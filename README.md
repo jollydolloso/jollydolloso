@@ -1,6 +1,6 @@
 # Hi, I'm Jolly! 
 
-I'm a Full-Stack Software Engineer currently working on a website builder tool.
+I'm a Full-Stack Software Engineer currently working on a web-application for a page builder tool.
 
 ## Tech I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
